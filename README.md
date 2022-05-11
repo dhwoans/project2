@@ -17,7 +17,93 @@
 ![image](https://user-images.githubusercontent.com/51963264/151294406-764f2f5a-d778-41b0-87d2-2f92421e07cd.png)
 
 
+# 🖼️서비스 기능
 
+<details>
+<summary>카카오 연동 로그인</summary>
+<div markdown="1">
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/55578809/154606515-9aeea3ea-b5b1-4f90-9a18-8c70ebc283dd.gif)
+
+
+</div>
+</details>
+
+<details>
+<summary>피드</summary>
+<div markdown="1">
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/55578809/154603822-1d981abb-2f10-41e2-beb7-371f1fb19218.gif)
+
+</div>
+</details>
+
+<details>
+<summary>작품 등록</summary>
+<div markdown="1">
+
+![insert artwork (1)](https://user-images.githubusercontent.com/55578809/154597267-7ba9839e-e169-4bc3-adc5-9564bbc54607.gif)
+
+</div>
+</details>
+<details>
+<summary>작품 수정</summary>
+<div markdown="1">
+
+![updateInfo](https://user-images.githubusercontent.com/55578809/154598730-50b3b3da-b28f-4bb2-97eb-15453bab55c3.gif)
+
+</div>
+</details>
+
+<details>
+<summary>작품 삭제</summary>
+<div markdown="1">
+
+![delete artwork](https://user-images.githubusercontent.com/55578809/154598732-5f863a51-113d-4481-b2e8-dfc18dec32ed.gif)
+
+
+</div>
+</details>
+<details>
+<summary>마이페이지</summary>
+<div markdown="1">
+
+![GIF_마이갤러리](https://user-images.githubusercontent.com/55578809/154595907-686bc368-1d1b-459b-9613-40c61c2f0832.gif)
+
+</div>
+</details>
+
+<details>
+<summary>갤러리</summary>
+<div markdown="1">
+
+![my gallery2 (1)](https://user-images.githubusercontent.com/55578809/154597931-14f173eb-9397-4344-905e-8ca7a330042a.gif)
+
+
+</div>
+</details>
+
+<details>
+<summary>댓글, 좋아요</summary>
+<div markdown="1">
+
+![댓글,좋아요](https://user-images.githubusercontent.com/55578809/154598208-aec68b88-aa6f-4913-8c1a-155636105edf.gif)
+
+
+</div>
+</details>
+
+<details>
+<summary>내 정보 수정</summary>
+<div markdown="1">
+
+![updateInfo (1)](https://user-images.githubusercontent.com/55578809/154599225-7d0bb43e-a730-4fb9-a65a-87bb6bc12d90.gif)
+
+
+</div>
+</details>
+
+&nbsp;
 
 
 ## :pencil: 규칙 
