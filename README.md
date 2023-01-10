@@ -1,8 +1,3 @@
-# 반🍖반🍗 말마니🍻
-
-에러 한 쪽도 나눠 먹자
-
-
 ## 🦷 팀원
 |<img src="https://lab.ssafy.com/uploads/-/system/user/avatar/3706/avatar.png?width=400" width="230px;" alt="오재문"/>| <img src="https://secure.gravatar.com/avatar/d971e1b10959c5b19d0c6d98069b3d8d?s=800&d=identicon" width="230px;" alt="박창현"/>|<img src="https://secure.gravatar.com/avatar/ec47db8d724e462e92c510a548279e62?s=800&d=identicon" width="230px;" alt="박해인"/>|<img src="https://secure.gravatar.com/avatar/45331f87f9cc8dd8fb042c0ff310d666?s=800&d=identicon" width="230px;" alt="배나영"/>|<img src="https://secure.gravatar.com/avatar/710ed197c74c72677243a59a3581afb6?s=800&d=identicon" width="230px;" alt="백철연"/>|<img src="https://secure.gravatar.com/avatar/98f66880dc16c2436bfe4369e878449e?s=800&d=identicon" width="230px;" alt="신미래"/>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -10,11 +5,8 @@
 |🍗Backend🥩|🍗Backend🍖|🍗Frontend🍖|🍗Backend🍖|🍗Frontend🍖|🍗Frontend🍖|
 
 ## 🥞 skill stack
-## 프론트
-![image](https://user-images.githubusercontent.com/51963264/151294450-66afc357-0c6e-4519-a577-4a181408677a.png)
+![image](https://user-images.githubusercontent.com/51963264/211530851-ed983663-f922-404a-86d1-94f2f1bd6a6d.png)
 
-## 백엔드
-![image](https://user-images.githubusercontent.com/51963264/151294406-764f2f5a-d778-41b0-87d2-2f92421e07cd.png)
 
 
 # 🖼️서비스 기능
